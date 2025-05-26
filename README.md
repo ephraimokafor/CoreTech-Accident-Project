@@ -1,2 +1,3 @@
 # CoreTech-Accident-Project
-CoreTech, a UK-based analytics firm, which I clean and analyzed comprehensive accident data with the goal of identifying critical patterns and recommending actionable strategies to minimize road accidents. 
+I carried out this project for CoreTech, a UK-based analytics firm. I cleaned, analysed, and visualised comprehensive accident data using Excel. My goal was to identify critical patterns and recommend actionable strategies to minimise road accidents. 
+This report is based on the CoreTech Road Accident Dashboard, which visualises multiple dimensions of accident data, including temporal trends, severity levels, environmental conditions, and geospatial distribution. The analysis provides valuable insights into the causes and conditions contributing to road accidents and casualties.
